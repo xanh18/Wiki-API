@@ -1,5 +1,5 @@
 # Wiki-API
- I created a RESTFUL API
+ I created a RESTFUL Wiki-API to demonstrate that I can create an resful API. In this API I can add and delete information I want to.
 
 What have I Learned ?
 
