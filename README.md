@@ -5,7 +5,9 @@ What have I Learned ?
 
 - Learned about restful routing. 
 
-- Learned about dynamic routing from express with node.js through HTTPS
+- Learned about dynamic routing.
+
+- Learned how to use Express in combination with node.js
 
 - Learned how to use mongoDB with mongoose
 
